@@ -12,17 +12,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Mai's GitHub stats](https://github-readme-stats.vercel.app/api?username=mai-mo&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mai-mo&layout=compact&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mai-mo&theme=dracula)
-
----
 
 ## 🚀 Featured Projects
 
@@ -34,7 +23,7 @@
 
 ## 🌍 Connect with me
 
-[![Linkedin](https://img.shields.io/badge/-MaiMohamed-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/maimohamedd/))
+[![Linkedin](https://img.shields.io/badge/-/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/maimohamedd/))
 [![Gmail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mymhmd858@gmail.com)
 
 ---
