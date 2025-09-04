@@ -53,9 +53,4 @@
 - Exploring **Generative AI & Deep Learning** 🤖  
 - ⚡ Fun fact: I debug better with ☕ coffee!
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mai-mo&show_icons=true&theme=tokyonight" alt="Mai's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mai-mo&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
