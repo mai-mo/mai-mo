@@ -15,17 +15,17 @@
 ## 🚀 Featured Projects
 
 - [🌐 Portfolio Website](https://github.com/mai-mo/portfolio) – Modern personal website built with React & Tailwind.
-- [🏡 House Price Prediction](https://github.com/mai-mo/house-price-prediction) – Advanced ML model to estimate house prices.
-- [🖼️ Image Classifier](https://github.com/mai-mo/image-classifier) – Deep learning CNN for image recognition.
-- [📊 Data Science Portfolio](https://github.com/mai-mo/data-science-portfolio) – Collection of projects in ML & DS.
+- [🏡 House Price Prediction](https://github.com/mai-mo/House-Prices) – Advanced ML model to estimate house prices.
 - [📱 Chat Application](https://github.com/mai-mo/chat-app) – Real-time chat app using Node.js, Express, and Socket.io.
+- [🎵 Music Genre Classification with PCA](https://github.com/mai-mo/Music_Genre_Classification_with_PCA_Project) – Project about classifying music genres using Principal Component Analysis (PCA) to reduce dimensionality.
+- [👥 User Classification Project](https://github.com/mai-mo/User-Classification-Project) – A project for classifying users into categories using feature engineering and machine learning techniques.
 
 
 ---
 
 ## 🌍 Connect with me
 
-[![Linkedin](https://img.shields.io/badge/-/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/maimohamedd/))
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/maimohamedd/))
 [![Gmail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:mymhmd858@gmail.com)
 
 ---
