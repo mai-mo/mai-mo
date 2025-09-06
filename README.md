@@ -7,6 +7,8 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -34,6 +36,18 @@
 
 ---
 
+## 🌱 Currently  
+
+- 🌐 Learning **Web Development**  
+- 🤖 Exploring **Generative AI & Deep Learning**  
+- 🎥 Creating & sharing content on  
+  <a href="https://www.youtube.com/@mai-mo">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  </a>  
+- ☕ Fun fact: I debug better with coffee!  
+
+---
+
 ## 🌍 Connect with Me  
 
 <p align="center">
@@ -44,13 +58,3 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🌱 Currently  
-
-- Learning **Web Development** 🌐  
-- Exploring **Generative AI & Deep Learning** 🤖  
-- ⚡ Fun fact: I debug better with ☕ coffee!
-
-
